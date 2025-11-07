@@ -1,6 +1,6 @@
 # PageRank Simulator (Markov Chains & Eigenvalues)
 
-A Java program that demonstrates how **Markov chains** and **eigen decomposition** can be used to compute the steady-state probabilities of a random web surfer — a scaled-down version of Google’s **PageRank algorithm**.
+A Java program that demonstrates how **Markov chains** and **eigen decomposition** can be used to compute the steady-state probabilities of a random web surfer (a scaled-down version of Google’s **PageRank algorithm**).
 
 ## Features
 - Builds a random **10×10 Markov transition matrix** (each column sums to 1).
